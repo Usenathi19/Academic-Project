@@ -1,0 +1,1 @@
+Buffalo Hop is a website that allows users to buy local bus tickets online in East London South Africa. It is scripted in JavaScript, html, sql and PhP. Some of it's functionalities are checking bus schedules, prices, reporting lost and found items and checking bus status to name a few.
